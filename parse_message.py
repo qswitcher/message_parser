@@ -34,7 +34,7 @@ def parse(raw):
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
-        print parse(sys.argv[2])
+        print parse(sys.argv[1])
     else:
         print "Example 1 ===================="
         print parse("@chris you around?")
