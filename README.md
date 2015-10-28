@@ -4,9 +4,9 @@ A Parser of Hipchat Messages
 # Usage
 Run at the commandline
 ```
-$ python message_parser.py <a message>
+$ python parse_message.py <a message>
 ```
 Run with predetermined examples
 ```
-$ python message_parser.py
+$ python parse_message.py
 ```
